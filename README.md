@@ -1,16 +1,17 @@
-### Hi there 👋
+### Wassup
 
-<!--
-**SHays24/SHays24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**SHays24/that person who cant program.**
+- 🔭 I’m currently working on Jankis98
+- 🌱 I’m currently learning Python(or pretending to)
+- 👯 I’m looking to collaborate on anything?
+- 🤔 I’m looking for help with work
+- 💬 Ask me about procrastination
+- 📫 How to reach me: why do you want to lol
+- 😄 Pronouns: those things people use use a magic 8 ball | smthn
+- ⚡ Fun fact: the earth is not infact flat 😲  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😶 Don't Call 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 ç̵̞̯̱͍͕̄̑̉͠ͅͅo̵͕͎̭͎̗̻̝͙̟̿d̷͖̫̱̫̲̻͊̔̿͊̌̀̕ḯ̴̢̏̾̐͂ͅñ̴̢̫͇̼̠̤̦͖͎̆͆̇͛̋ĝ̴͓̽͘ͅ  in my presence or i might just ```Robert'); DROP TABLE Students;```[^1] you.
+- its that month again
+
+[^1]:[Fine🙄](https://xkcd.com/327/)
