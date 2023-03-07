@@ -3,7 +3,7 @@
 
 **SHays24/that person who cant program.**
 - 🔭 I’m currently working on Jankis98
-- 🌱 I’m currently learning Python(or pretending to)
+- 🌱 I’m currently learning Java, or at least the version required for the ibd
 - 👯 I’m looking to collaborate on anything?
 - 🤔 I’m looking for help with work
 - 💬 Ask me about procrastination
