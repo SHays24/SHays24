@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with work
 - 💬 Ask me about procrastination
 - 📫 How to reach me: why do you want to lol
-- 😄 Pronouns: those things people use use a magic 8 ball | smthn
+- 😄 Pronouns: those things people use, use a magic 8 ball | smthn
 - ⚡ Fun fact: the earth is not infact flat 😲  
 - 📸 Exposure is a thing for photography, not a currency, anyway the exchange rate sucks 📉
 
