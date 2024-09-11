@@ -25,6 +25,8 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![ηano, GNU](https://img.shields.io/badge/%CE%B7ano,%20GNU-7c00cd?style=flat)
+  
   
 - 🖥 &nbsp;
   ![ drawio.com](https://img.shields.io/badge/_drawio.com-333333?logo=diagrams.net&logoColor=%23F08705)
