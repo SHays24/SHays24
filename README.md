@@ -25,7 +25,7 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  [![Replit - @SaxonHays](https://img.shields.io/badge/Replit-@SaxonHays-333333?style=flat&logo=replit&logoColor=%23F26207)](https://replit.com/@SaxonHays)
+  [![Replit(sucks now, inevitably) - @SaxonHays](https://img.shields.io/badge/Replit-@SaxonHays-333333?style=flat&logo=replit&logoColor=%23F26207)](https://replit.com/@SaxonHays)
   
 - 🖥 &nbsp;
   ![ drawio.com](https://img.shields.io/badge/_drawio.com-333333?logo=diagrams.net&logoColor=%23F08705)
